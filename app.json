@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Multiplication tables trainer",
-    "slug": "multiplication-tables-trainer",
+    "name": "Multiplication table trainer",
+    "slug": "multiplication-table-trainer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
@@ -23,7 +23,7 @@
       "favicon": "./assets/favicon.png"
     },
     "android": {
-      "package": "com.dew.multiplicationtablestrainer",
+      "package": "com.dew.multiplicationtabletrainer",
       "permissions": []
     }
   }
