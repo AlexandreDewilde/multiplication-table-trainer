@@ -1,6 +1,7 @@
 # Multiplication Table Trainer
 
-![AppScreenshot](https://raw.githubusercontent.com/allEyezOnCode/multiplication-table-trainer/master/assets/Screenshot_20200901_160138_host.exp.exponent.jpg)
+<img src="https://raw.githubusercontent.com/allEyezOnCode/multiplication-table-trainer/master/assets/Screenshot_20200901_160138_host.exp.exponent.jpg" alt="drawing" width="150"/>
+<img src="https://raw.githubusercontent.com/allEyezOnCode/multiplication-table-trainer/master/assets/Screenshot_20200901_160142_host.exp.exponent.jpg" alt="drawing" width="150"/>
 
 
 Train your multiplication table and have fun at the same time, the app is made for kids that have difficulties to learn multiplication table.
