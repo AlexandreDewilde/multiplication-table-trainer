@@ -45,18 +45,18 @@ export default function GameScreen(props) {
     }
 
     const _deleteLastElement = () => {
-        Vibration.vibrate(0.05*1000);
+        //Vibration.vibrate(0.05*1000);
         setResults(results.slice(0, results.length - 1));
     }
 
     const _deleteAllElements = () =>  {
-        Vibration.vibrate(0.05*1000);
+        //Vibration.vibrate(0.05*1000);
         setResults('');
     }
 
     const _confirmAnswer = () => {
         _checkResult();
-        Vibration.vibrate(0.03*1000);
+        //Vibration.vibrate(0.03*1000);
     }
 
     const _finishScreen = () => {
